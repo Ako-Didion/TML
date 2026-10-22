@@ -1,0 +1,8 @@
+tModLoader/Worlds/
+tModLoader/server/
+tModLoader/steamapps/
+tModLoader/Logs/
+tModLoader/serverconfig.txt
+tModLoader/Mods/*.tmod
+tModLoader/GlobalWotGDefeatList.txt
+tModLoader/favorites.json

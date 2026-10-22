@@ -1,0 +1,7 @@
+world=/tModLoader/Worlds/hasba.wld
+autocreate=3
+worldname=hasba
+difficulty=1
+maxplayers=16
+port=7777
+password=CHANGE_ME
